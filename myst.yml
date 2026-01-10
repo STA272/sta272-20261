@@ -21,7 +21,11 @@ project:
           title: Week 1 lecture
     
 site:
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md
   template: book-theme
-  # options:
+   
+  options:
+    logo_text: "STA272 Winter 2026"
   #   favicon: favicon.ico
   #   logo: site_logo.png
