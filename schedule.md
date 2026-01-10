@@ -1,14 +1,8 @@
----
-layout: default
-title: Schedule
-permalink: /schedule/
----
+# Weekly Class Schedule
 
-## Weekly Class Schedule
-
-| Class | Date   | Topic                                                             | Tutorial   | Instructor | Materials
-| ----: | ------ | ----------------------------------------------------------------- | ---------- | ---------- | ------------
-|     1 | Jan 8  | Programming with data using Python |  No tutorial         | NT | [lect nb on Jupyterhub](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026%2F&urlpath=tree%2F%2F&branch=main&targetPath=STA272)<br><br> [preview of lect nb](https://github.com/STA272/2026/blob/main/Week1/Lectures/STA272_08012026_L1.ipynb)
+| Class | Date   | Topic                                                             | Tutorial   | Instructor | 
+| ----: | ------ | ----------------------------------------------------------------- | ---------- | ---------- | 
+|     1 | Jan 8  | Programming with data using Python |  No tutorial         | NT | 
 |     2 | Jan 15 | Exploratory data analysis using Python | A1         | NT
 |     3 | Jan 22 | Prediction and inference in statistical models - quantitative data | A2         | MF
 |     4 | Jan 29 | Prediction and inference in statistical models - non-quantitative data | A3         | MF

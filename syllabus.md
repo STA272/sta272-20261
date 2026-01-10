@@ -1,8 +1,3 @@
----
-layout: default
-title: Syllabus
-permalink: /syllabus/
----
 
 # Course Syllabus for STA272H1 Winter 2026
 
