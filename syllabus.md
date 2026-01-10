@@ -1,5 +1,5 @@
 
-# Course Syllabus for STA272H1 Winter 2026
+# Course Syllabus
 
 ## Meeting times
 
@@ -9,10 +9,16 @@ Tutorial: Thursday 17:00 - 18:00
 
 ## Contact Information and Office Hours
 
-Professor Meredith Franklin (Office hours: Wednesday 1500 - 1600)
+Professor Meredith Franklin (Office hours: Wednesday 1500 - 1600, Room 9088)
 
-Professor Nathan Taback (Office hours: Wednesday 1500 - 1600)
+Professor Nathan Taback (Office hours: Wednesday 1500 - 1600, Room 9087)
 
+Department of Statistical Sciences
+9th Floor, Ontario Power Building
+700 University Ave., Toronto, ON M5G 1Z5
+[map](https://www.google.ca/maps/place/700+University+Ave,+Toronto,+ON/@43.6591155,-79.3934669,17z/data=!3m1!4b1!4m6!3m5!1s0x882b34c804bf643b:0x96b6e3959aa44068!8m2!3d43.6592042!4d-79.3912531!16s%2Fg%2F11cncdkvns?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D)
+
+email: <sta272@course.utoronto.ca>
 
 
 ## Marking Scheme
