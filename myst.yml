@@ -15,9 +15,10 @@ project:
     - file: computing.md
     - file: schedule.md
     - file: syllabus.md
-    - title: Week1
+    - title: Week 1
       children:
         - file: Week1/STA272_08012026_L1.ipynb
+          title: Week 1 lecture
     
 site:
   template: book-theme
