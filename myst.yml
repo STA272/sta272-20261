@@ -34,6 +34,10 @@ project:
           title: Week 2 lecture    
         - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026%2F&urlpath=tree%2F%2FWeek2%2FLectures&branch=main&targetPath=STA272'
           title: Week 2 lecture notebook on UofT Jupyterhub
+        - file: Week2/sta272_lab1_student.ipynb
+          title: Week 2 Lab
+        - title: Lab 1 on UofT Jupyterhub
+          url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials&branch=main'
 site:
   template: book-theme
   title: STA272 Winter 2026
