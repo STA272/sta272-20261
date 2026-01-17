@@ -31,13 +31,17 @@ project:
     - title: Week 2
       children:
         - file: Week2/STA272_15012026_L2.ipynb
-          title: Week 2 lecture    
+          title: Week 2 lecture
         - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026%2F&urlpath=tree%2F%2FWeek2%2FLectures&branch=main&targetPath=STA272'
           title: Week 2 lecture notebook on UofT Jupyterhub
         - file: Week2/sta272_lab1_student.ipynb
           title: Week 2 Lab
         - title: Lab 1 on UofT Jupyterhub
           url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials&branch=main'
+        - file: Week2/sta272_hw2_student.ipynb
+          title: Week 2 Homework
+        - title: Homework 2 on UofT Jupyterhub
+          url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials%2Fsta272_hw2_student.ipynb&branch=main&targetPath=STA272'
 site:
   template: book-theme
   title: STA272 Winter 2026
