@@ -42,6 +42,12 @@ project:
           title: Week 2 Homework
         - title: Homework 2 on UofT Jupyterhub
           url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials%2Fsta272_hw2_student.ipynb&branch=main&targetPath=STA272'
+    - title: Week 3
+      children:
+        - file: Week3/STA272_22012026_L3.ipynb
+          title: Week 3 lecture
+        - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek3%2FLectures%2FSTA272_22012026_L3.ipynb&branch=main&targetPath=STA272'
+          title: Week 3 lecture notebook on UofT Jupyterhub
 site:
   template: book-theme
   title: STA272 Winter 2026
