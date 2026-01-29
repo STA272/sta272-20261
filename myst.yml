@@ -52,7 +52,7 @@ project:
           title: Week 3 Homework
         - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek3%2FTutorials%2FSTA272_hw3_student.ipynb&branch=main&targetPath=STA272'
           title: Homework 3 on UofT Jupyterhub
-     - title: Week 4
+    - title: Week 4
       children:
         - file: Week4/STA272_29012026_L4.ipynb
           title: Week 4 lecture
