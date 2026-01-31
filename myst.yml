@@ -56,10 +56,12 @@ project:
       children:
         - file: Week4/STA272_29012026_L4.ipynb
           title: Week 4 lecture
-        - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek3%2FLectures%2FSTA272_29012026_L4.ipynb&branch=main&targetPath=STA272'
+        - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek4%2FLectures%2FSTA272_29012026_L4.ipynb&branch=main&targetPath=STA272'
           title: Week 4 lecture notebook on UofT Jupyterhub
         - file: Week4/STA272_lab4_student.ipynb
-          title: Week 4 Lab
+          title: Week 4 Homework
+        - url: 'https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek4%2FTutorials%2FSTA272_hw4_student.ipynb&branch=main&targetPath=STA272'
+          title: Homework 4 on UofT Jupyterhub
 
 site:
   template: book-theme
