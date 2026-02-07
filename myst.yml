@@ -14,58 +14,102 @@ project:
         - file: guides/python_quick_reference.ipynb
     - title: Week 1
       children:
-        - file: Week1/STA272_08012026_L1.ipynb
-          title: Week 1 lecture
-        - title: Week 1 lecture notebook on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek1%2FLectures%2FSTA272_08012026_L1.ipynb&branch=main&targetPath=STA272
-        - file: Week1/sta272_a1.ipynb
-          title: Week 1 homework
-        - title: Week 1 homework on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek1%2FTutorials%2Fsta272_a1.ipynb&branch=main&targetPath=STA272
+        - title: Lecture
+          children:
+            - file: Week1/STA272_08012026_L1.ipynb
+              title: Week 1 lecture
+            - title: Week 1 lecture notebook on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek1%2FLectures%2FSTA272_08012026_L1.ipynb&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week1/sta272_a1.ipynb
+              title: Week 1 homework
+            - title: Week 1 homework on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek1%2FTutorials%2Fsta272_a1.ipynb&branch=main&targetPath=STA272
     - title: Week 2
       children:
-        - file: Week2/STA272_15012026_L2.ipynb
-          title: Week 2 lecture
-        - title: Week 2 lecture notebook on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026%2F&urlpath=tree%2F%2FWeek2%2FLectures&branch=main&targetPath=STA272
-        - file: Week2/sta272_lab1_student.ipynb
-          title: Week 2 Lab
-        - title: Lab 1 on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials&branch=main
-        - file: Week2/sta272_hw2_student.ipynb
-          title: Week 2 Homework
-        - title: Homework 2 on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials%2Fsta272_hw2_student.ipynb&branch=main&targetPath=STA272
+        - title: Lecture
+          children:
+            - file: Week2/STA272_15012026_L2.ipynb
+              title: Week 2 lecture
+            - title: Week 2 lecture notebook on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026%2F&urlpath=tree%2F%2FWeek2%2FLectures&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week2/sta272_hw2_student.ipynb
+              title: Week 2 Homework
+            - title: Homework 2 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials%2Fsta272_hw2_student.ipynb&branch=main&targetPath=STA272
+            - file: Week2/sta272_hw2_answers.ipynb
+              title: Homework 2 Answers
+        - title: Lab
+          children:
+            - file: Week2/sta272_lab1_student.ipynb
+              title: Week 2 Lab
+            - title: Lab 1 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek2%2FTutorials&branch=main
+            - file: Week2/sta272_lab1_answers.ipynb
+              title: Lab 1 Answers
     - title: Week 3
       children:
-        - file: Week3/STA272_22012026_L3.ipynb
-          title: Week 3 lecture
-        - title: Week 3 lecture notebook on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek3%2FLectures%2FSTA272_22012026_L3.ipynb&branch=main&targetPath=STA272
-        - file: Week3/STA272_hw3_student.ipynb
-          title: Week 3 Homework
-        - title: Homework 3 on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek3%2FTutorials%2FSTA272_hw3_student.ipynb&branch=main&targetPath=STA272
+        - title: Lecture
+          children:
+            - file: Week3/STA272_22012026_L3.ipynb
+              title: Week 3 lecture
+            - title: Week 3 lecture notebook on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek3%2FLectures%2FSTA272_22012026_L3.ipynb&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week3/STA272_hw3_student.ipynb
+              title: Week 3 Homework
+            - title: Homework 3 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek3%2FTutorials%2FSTA272_hw3_student.ipynb&branch=main&targetPath=STA272
+            - file: Week3/STA272_hw3_answers.ipynb
+              title: Homework 3 Answers
+        - title: Lab
+          children:
+            - file: Week3/STA272_lab3_answers.ipynb
+              title: Lab 3 Answers
     - title: Week 4
       children:
-        - file: Week4/STA272_29012026_L4.ipynb
-          title: Week 4 lecture
-        - title: Week 4 lecture notebook on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek4%2FLectures%2FSTA272_29012026_L4.ipynb&branch=main&targetPath=STA272
-        - file: Week4/STA272_lab4_student.ipynb
-          title: Week 4 Homework
-        - title: Homework 4 on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek4%2FTutorials%2FSTA272_hw4_student.ipynb&branch=main&targetPath=STA272
+        - title: Lecture
+          children:
+            - file: Week4/STA272_29012026_L4.ipynb
+              title: Week 4 lecture
+            - title: Week 4 lecture notebook on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2F2026%2FWeek4%2FLectures%2FSTA272_29012026_L4.ipynb&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week4/STA272_hw4_student.ipynb
+              title: Week 4 Homework
+            - title: Homework 4 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek4%2FTutorials%2FSTA272_hw4_student.ipynb&branch=main&targetPath=STA272
+            - file: Week4/STA272_hw4_answers.ipynb
+              title: Homework 4 Answers
+        - title: Lab
+          children:
+            - file: Week4/STA272_lab4_student.ipynb
+              title: Week 4 Lab
+            - file: Week4/STA272_lab4_answers.ipynb
+              title: Lab 4 Answers
     - title: Week 5
       children:
-        - file: Week5/STA272_05022026_L5.ipynb
-          title: Week 5 lecture
-        - title: Week 5 lecture notebook on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FLectures%2FSTA272_05022026_L5.ipynb&branch=main&targetPath=STA272
-        - file: Week5/STA272_hw5_student.ipynb
-          title: Week 5 Homework
-        - title: Homework 5 on UofT Jupyterhub
-          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FTutorials%2FSTA272_hw5_student.ipynb&branch=main&targetPath=STA272
+        - title: Lecture
+          children:
+            - file: Week5/STA272_05022026_L5.ipynb
+              title: Week 5 lecture
+            - title: Week 5 lecture notebook on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FLectures%2FSTA272_05022026_L5.ipynb&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week5/STA272_hw5_student.ipynb
+              title: Week 5 Homework
+            - title: Homework 5 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FTutorials%2FSTA272_hw5_student.ipynb&branch=main&targetPath=STA272
+        - title: Lab
+          children:
+            - file: Week5/STA272_lab5_answers.ipynb
+              title: Lab 5 Answers
 
 site:
   template: book-theme
@@ -74,3 +118,4 @@ site:
     logo_text: STA272 Winter 2026
     folders: true
     primary_sidebar_footer: primary-sidebar-footer.md
+    style: ./custom.css
