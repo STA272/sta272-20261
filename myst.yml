@@ -62,6 +62,10 @@ project:
           title: Week 5 lecture
         - title: Week 5 lecture notebook on UofT Jupyterhub
           url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FLectures%2FSTA272_05022026_L5.ipynb&branch=main&targetPath=STA272
+        - file: Week5/STA272_hw5_student.ipynb
+          title: Week 5 Homework
+        - title: Homework 5 on UofT Jupyterhub
+          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FTutorials%2FSTA272_hw5_student.ipynb&branch=main&targetPath=STA272
 
 site:
   template: book-theme
