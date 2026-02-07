@@ -12,6 +12,8 @@ project:
         - file: guides/jupyterhub_guide.ipynb
         - file: guides/markus_guide.ipynb
         - file: guides/python_quick_reference.ipynb
+        - file: guides/Pythonlibs.md
+          title: Python Libraries
     - title: Week 1
       children:
         - title: Lecture
