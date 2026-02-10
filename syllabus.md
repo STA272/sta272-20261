@@ -42,13 +42,13 @@ email: <sta272@course.utoronto.ca>
 
 ## Marking Scheme (old marking scheme)
 
-- ~~**21%** weekly tutorial assignments (three lowest marks will be dropped).  There will be no makeup tutorial assignments.~~
+- <s>**21%** weekly tutorial assignments (three lowest marks will be dropped).  There will be no makeup tutorial assignments.</s>
 
-  - ~~NB: *Part I of these assignments will be due by the end of tutorial (Thursday by 18:30) and Part II will be due by 12:00 the following class.*~~  
+  - <s>NB: *Part I of these assignments will be due by the end of tutorial (Thursday by 18:30) and Part II will be due by 12:00 the following class.*</s>  
 
-- ~~**24%** midterm test on Feb. 12 during class (if the midterm is missed then the weight will be shifted to the final exam).~~
+- <s>**24%** midterm test on Feb. 12 during class (if the midterm is missed then the weight will be shifted to the final exam).</s>
 
-- ~~**55%** final exam. The time and date of the exam is scheduled by the Faculty of Arts and Science.~~
+- <s>**55%** final exam. The time and date of the exam is scheduled by the Faculty of Arts and Science.</s>
 
 
 ## Missed / Late Assessment Policy
@@ -62,7 +62,9 @@ email: <sta272@course.utoronto.ca>
 
 - Submitting a tutorial assignment after the deadline (for parts I or II) will result in a late penalty of 10% per hour.  Submissions after 10 hours will receive a zero unless documentation to support a request for academic consideration is submitted within one day (i.e., Friday by 18:00).  In this case half the weight of the tutorial assignment will be shifted to the midterm and the other half to the final exam.
 
-- If the midterm test is missed for a valid reason and appropriate documentation is submitted then the weight will be shifted to the final exam.  In this case the final exam will be worth 79%. 
+- **old policy**: <s>If the midterm test is missed for a valid reason and appropriate documentation is submitted then the weight will be shifted to the final exam.  In this case the final exam will be worth 79%.</s> 
+
+- **new policy:** the weight of one test may shifted to the other tests for a valid reason.
 
 ## Learning Outcomes
 
