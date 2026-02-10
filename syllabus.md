@@ -20,16 +20,35 @@ Department of Statistical Sciences
 
 email: <sta272@course.utoronto.ca>
 
+## Marking Scheme (new marking scheme after class vote)
 
-## Marking Scheme
-
-- **21%** weekly tutorial assignments (three lowest marks will be dropped).  There will be no makeup tutorial assignments.
+- **22%** weekly tutorial assignments (three lowest marks will be dropped).  There will be no makeup tutorial assignments.
 
   - NB: *Part I of these assignments will be due by the end of tutorial (Thursday by 18:30) and Part II will be due by 12:00 the following class.*  
 
-- **24%** midterm test on Feb. 12 during class (if the midterm is missed then the weight will be shifted to the final exam).
+-  **26%** term test 1 on Feb. 12 during class (The weight of one test may shifted to the other tests for a valid reason).
 
-- **55%** final exam. The time and date of the exam is scheduled by the Faculty of Arts and Science.
+-  **26%** term test 2 on March 12 during class (The weight of one test may shifted to the other tests for a valid reason).
+
+- **26%** term test 3 on April 2 during class (The weight of one test may shifted to the other tests for a valid reason).
+
+### Test format/materials (all term tests):
+
+- Tests are computer-based and will use the same tools/workflow as the course (e.g., JupyterHub/MarkUs-style environment).
+- You may use class materials (e.g., labs and homework).
+- You may use built-in help for Python syntax (e.g., standard Python help/documentation available within the coding environment).
+- Further logistics (room/lab assignment and instructions) will be posted in advance.
+- No makeup tests.  The weight of one test may shifted to the other tests for a valid reason.
+
+## Marking Scheme (old marking scheme)
+
+- ~~**21%** weekly tutorial assignments (three lowest marks will be dropped).  There will be no makeup tutorial assignments.~~
+
+  - ~~NB: *Part I of these assignments will be due by the end of tutorial (Thursday by 18:30) and Part II will be due by 12:00 the following class.*~~  
+
+- ~~**24%** midterm test on Feb. 12 during class (if the midterm is missed then the weight will be shifted to the final exam).~~
+
+- ~~**55%** final exam. The time and date of the exam is scheduled by the Faculty of Arts and Science.~~
 
 
 ## Missed / Late Assessment Policy
