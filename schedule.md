@@ -12,10 +12,10 @@
 |     -  | Feb 12 | **Test 1** (covers Weeks 1-5)                                    | *No tutorial* |
 |     - | Feb 19 | **Reading Week**                                                  | -          | 
 |     6 | Feb 26 | Supervised learning models                                        | A5         | MF
-|     7 | Mar 5  | Unsupervised learning models                                      | A6         | NT
+|     7 | Mar 5  | Supervised learning models                                      | A6         | NT
 |     8 | Mar 12 | **Test 2** (covers Weeks 6-8)                                      | *No tutorial*         | 
-|    9 | Mar 19 | Communicating information from models                             | A7         | MF
-|    10 | Mar 26 | Ethical issues in modeling data                                   | A8         | MF
+|    9 | Mar 19 | Unsupervised learning  models                             | A7         | MF
+|    10 | Mar 26 | Unsupervised learning  models                                   | A8         | NT
 |    11 | Apr 2  | **Test 3** (covers Weeks 9-11)                                  | *No tutorial*        | 
 
 
