@@ -112,6 +112,12 @@ project:
           children:
             - file: Week5/STA272_lab5_answers.ipynb
               title: Lab 5 Answers
+    - title: Test 1
+      children:
+        - file: Test1/STA272_test1_infosample.ipynb
+          title: Test 1 Sample Questions and Study Guide
+        - title: Test 1 Sample Questions on UofT Jupyterhub
+          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2Ftest1%2FSTA272_test1_infosample.ipynb&branch=main&targetPath=STA272
 
 site:
   template: book-theme
