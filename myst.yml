@@ -147,7 +147,7 @@ project:
     - title: Test 2
       children:
         - file: test2/STA272_test2_infosample.ipynb
-          title: Test 2 Sample Questions and Study Guide
+          title: Test 2 Study Guide
 
 site:
   template: book-theme
