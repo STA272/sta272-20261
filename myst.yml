@@ -144,6 +144,10 @@ project:
           title: Test 1 Answers
         - title: Test 1 Answers on UofT Jupyterhub
           url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2Ftest1%2FSTA272_test1_12022026_answers.ipynb&branch=main&targetPath=STA272
+    - title: Test 2
+      children:
+        - file: test2/STA272_test2_infosample.ipynb
+          title: Test 2 Sample Questions and Study Guide
 
 site:
   template: book-theme
