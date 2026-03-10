@@ -1,4 +1,4 @@
-# &#128075;  Welcome to STA272 Winter 2026 -  University of Toronto
+# &#128075;  Welcome to STA272H1: Statistical Models for Data Science Winter 2026 -  University of Toronto
 
 
 
