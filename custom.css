@@ -1,0 +1,26 @@
+/* Turn the special “────────” TOC items into non-clickable separators */
+a[href^="#divider-week"]{
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  opacity: 0.65;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  display: block;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+/* Optional: hide the text and use a clean line instead */
+a[href^="#divider-week"]{
+  color: transparent;
+  position: relative;
+}
+a[href^="#divider-week"]::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  border-top: 1px solid currentColor;
+  opacity: 0.5;
+}

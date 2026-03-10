@@ -108,6 +108,8 @@ project:
               title: Week 5 Homework
             - title: Homework 5 on UofT Jupyterhub
               url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek5%2FTutorials%2FSTA272_hw5_student.ipynb&branch=main&targetPath=STA272
+            - file: Week5/STA272_hw5_answers.ipynb
+              title: Homework 5 Answers
         - title: Lab
           children:
             - file: Week5/STA272_lab5_answers.ipynb
@@ -126,6 +128,12 @@ project:
               title: Week 6 Homework
             - title: Homework 6 on UofT Jupyterhub
               url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek6%2FTutorials%2FSTA272_hw6_student.ipynb&branch=main&targetPath=STA272
+            - file: Week6/STA272_hw6_answers.ipynb
+              title: Homework 6 Answers
+        - title: Lab
+          children:
+            - file: Week6/STA272_lab6_answers.ipynb
+              title: Lab 6 Answers
     - title: Week 7
       children:
         - title: Lecture
