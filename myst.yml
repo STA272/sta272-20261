@@ -156,6 +156,12 @@ project:
               title: Week 8 lecture
             - title: Week 8 lecture notebook on UofT Jupyterhub
               url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek8%2FLectures%2FSTA272_19032026_L8.ipynb&branch=main&targetPath=STA272
+        - title: Homework
+          children:
+            - file: Week8/STA272_hw8_student.ipynb
+              title: Week 8 Homework
+            - title: Homework 8 on UofT Jupyterhub
+              url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2FWeek8%2FTutorials%2FSTA272_hw8_student.ipynb&branch=main&targetPath=STA272
     - title: Test 1
       children:
         - file: Test1/STA272_test1_infosample.ipynb
