@@ -190,6 +190,12 @@ project:
       children:
         - file: test2/STA272_test2_infosample.ipynb
           title: Test 2 Study Guide
+    - title: Test 3
+      children:
+        - file: test3/STA272_test3_infosample.ipynb
+          title: Test 3 Sample Questions and Study Guide
+        - title: Test 3 Sample Questions on UofT Jupyterhub
+          url: https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSTA272%2F2026&urlpath=tree%2FSTA272%2Ftest3%2FSTA272_test3_infosample.ipynb&branch=main&targetPath=STA272
 
 site:
   template: book-theme
